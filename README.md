@@ -9,30 +9,28 @@ Time spent: 60 hours
 Required Features
 The following required functionality is completed:
 
-[yes] A logical component structure in React is used to create the frontend of the app
-[yes] At least five content creators are displayed on the homepage of the app
-[yes] Each content creator item includes their name, a link to their channel/page, and a short description of their content
-[yes] API calls use the async/await design pattern via Axios or fetch()
-[yes] Clicking on a content creator item takes the user to their details page, which includes their name, url, and description
-[yes] Each content creator has their own unique URL
-[yes] The user can edit a content creator to change their name, url, or description
-[yes] The user can delete a content creator
-[yes] The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage
+[X] A logical component structure in React is used to create the frontend of the app
+[X] At least five content creators are displayed on the homepage of the app
+[X] Each content creator item includes their name, a link to their channel/page, and a short description of their content
+[X] API calls use the async/await design pattern via Axios or fetch()
+[X] Clicking on a content creator item takes the user to their details page, which includes their name, url, and description
+[X] Each content creator has their own unique URL
+[X] The user can edit a content creator to change their name, url, or description
+[X] The user can delete a content creator
+[X] The user can add a new content creator by entering a name, url, or description and then it is displayed on the homepage
 The following optional features are implemented:
 
-[no] Picocss is used to style HTML elements
-[no] The content creator items are displayed in a creative format, like cards instead of a list
-[no] An image of each content creator is shown on their content creator card
+[] Picocss is used to style HTML elements
+[] The content creator items are displayed in a creative format, like cards instead of a list
+[] An image of each content creator is shown on their content creator card
 The following additional features are implemented:
 
 [ main.css] List anything else that you added to improve the site's functionality!
-Video Walkthrough
+[X]Video Walkthrough
 Here's a walkthrough of implemented required features:
 
-👉🏿
-
-
-GIF created with ... 👉🏿 GIF tool here
+GIF created with Canva. The URL is here
+https://www.canva.com/design/DAGO7iQJBVw/9_vkQYxPqnVNtrvdlkDQeg/edit?utm_content=DAGO7iQJBVw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Notes
 Describe any challenges encountered while building the app or any additional context you'd like to add.
