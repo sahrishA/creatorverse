@@ -22,10 +22,10 @@ The following optional features are implemented:
 
 [] Picocss is used to style HTML elements
 [] The content creator items are displayed in a creative format, like cards instead of a list
-[] An image of each content creator is shown on their content creator card
+[X] An image of each content creator is shown on their content creator card
 The following additional features are implemented:
 
-[ main.css] List anything else that you added to improve the site's functionality!
+[ main.css] List anything else that you added to improve the site's functionality! 
 [X]Video Walkthrough
 Here's a walkthrough of implemented required features:
 
